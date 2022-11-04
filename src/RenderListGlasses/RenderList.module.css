@@ -1,0 +1,44 @@
+
+.pic{
+    width: 250px;
+    
+}
+.header{
+    color: white;
+    background-color: gray;
+    opacity: .5;
+}
+.bgImg{
+    background-image: url(../../public/glassesImage/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.glassList{
+    margin: 10px auto;
+    width: 60%;
+    padding: 0 20px;
+    background-color: white;
+    height: 120px;
+
+}
+
+.wearGlass{
+    width: 250px;
+    color: blue;
+    position: absolute;
+    left: 0;
+    bottom:0px;
+    background-color: orange;
+    opacity: .5;
+}
+
+.wearGlass2{
+
+    position: absolute;
+    left: 62px;
+    bottom: 178px;
+    opacity: .5;
+  
+}
